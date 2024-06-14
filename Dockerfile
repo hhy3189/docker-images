@@ -1,1 +1,1 @@
-From docker.io/nacos/nacos-server
+From docker.io/nacos/nacos-server:v2.2.1
