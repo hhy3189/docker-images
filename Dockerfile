@@ -1,1 +1,1 @@
-FROM openjdk:17-jre-slim
+FROM docker.io/library/openjdk:17-jre-slim
