@@ -1,1 +1,1 @@
-FROM registry.cn-hangzhou.aliyuncs.com/library/eclipse-temurin:17-jre-slim
+FROM registry.cn-hangzhou.aliyuncs.com/openjdk:17-jre-slim
